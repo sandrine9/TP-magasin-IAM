@@ -1,0 +1,6 @@
+# Project exclude paths
+/IAM-Application/target/
+/IAM-Domaine/target/
+/IAM-dto/target/
+/IAM-Exposition/target/
+/IAM-Infrastructure/target/
